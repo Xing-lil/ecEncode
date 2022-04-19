@@ -1,0 +1,2 @@
+/usr/bin/ar qc libecEncodeLib.a  CMakeFiles/ecEncodeLib.dir/src/ecEncode.cpp.o
+/usr/bin/ranlib libecEncodeLib.a

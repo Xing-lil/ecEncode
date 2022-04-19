@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/test.dir/test/test.cpp.o  -o test  -L/mnt/c/Users/Xing/Desktop/ecEncode/lib  -L/mnt/c/Users/Xing/Desktop/ecEncode/lib/isa-l/bin -Wl,-rpath,/mnt/c/Users/Xing/Desktop/ecEncode/lib:/mnt/c/Users/Xing/Desktop/ecEncode/lib/isa-l/bin libecEncodeLib.a -lisal 

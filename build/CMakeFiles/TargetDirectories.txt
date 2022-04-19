@@ -1,0 +1,5 @@
+/mnt/c/Users/Xing/Desktop/ecEncode/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Xing/Desktop/ecEncode/build/CMakeFiles/isa-l.dir
+/mnt/c/Users/Xing/Desktop/ecEncode/build/CMakeFiles/ecEncodeLib.dir
+/mnt/c/Users/Xing/Desktop/ecEncode/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Xing/Desktop/ecEncode/build/CMakeFiles/test.dir
